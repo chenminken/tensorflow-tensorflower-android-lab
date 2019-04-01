@@ -1,3 +1,13 @@
+# tensorflow-lab-chenminken
+![rose_1.png](md_image/rose_1.png)
+![rose_2.png](md_image/rose_2.png)
+![rose_3.png](md_image/rose_3.png)
+![tulips_1.png](md_image/tulips_1.png)
+![daisy_1.png](md_image/daisy_1.png)
+![dandelion_1.png](md_image/dandelion_1.png)
+![dandelion_2.png](md_image/dandelion_2.png)
+![sunflower_1.png](md_image/sunflower_1.png)
+
 # Overview
 
 This repo contains code for the "TensorFlow for poets 2" series of codelabs.
